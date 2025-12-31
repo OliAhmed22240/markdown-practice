@@ -29,6 +29,14 @@ Photography is one of my favorite hobbies because it allows me to capture moment
 You can learn more about photography basics here:  
 [Photography Beginner Guide](https://www.photographylife.com/photography-basics)
 
+Table-
+
+| Camera Type | Best Use Case                   |
+| ----------- | ------------------------------- |
+| DSLR        | Professional photography        |
+| Mirrorless  | Travel and lightweight shooting |
+
+
 ## Example of Camera Settings
 
 Inline code example:  
@@ -46,8 +54,3 @@ Camera Type	Best Use Case
 DSLR	Professional photography
 Mirrorless
 
-#
-| Camera Type | Best Use Case                   |
-| ----------- | ------------------------------- |
-| DSLR        | Professional photography        |
-| Mirrorless  | Travel and lightweight shooting |
