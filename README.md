@@ -45,6 +45,8 @@ Camera Comparison Table
 Camera Type	Best Use Case
 DSLR	Professional photography
 Mirrorless
+
+#
 | Camera Type | Best Use Case                   |
 | ----------- | ------------------------------- |
 | DSLR        | Professional photography        |
